@@ -86,7 +86,7 @@
 
 	</dependencies>
 	
-	<distributionManagement>
+	<!-- <distributionManagement>
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
@@ -119,7 +119,7 @@
 				<env>production</env>
 			</properties>
 		</profile>
-	</profiles>
+	</profiles> -->
 
 	<build>
 		<finalName>maven-profiles</finalName>
